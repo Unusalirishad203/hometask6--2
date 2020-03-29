@@ -1,0 +1,49 @@
+body{
+	margin:0;
+	padding:0; 
+
+}
+.container{
+	margin: 0 auto;
+	width: 90%
+}
+.logo,.header,.body,.footer{
+	height: 100px;
+	background-color: #636e72;
+}
+.logo{
+	height:100px;
+	width:100%;
+}
+.main{	
+	
+	overflow: hidden;
+	margin: 15px 0;
+
+}
+.sidebar{
+width: 20%;
+height: 600px;
+float: left;
+}
+.content{
+
+width: 78%;
+height: 600px;
+float: right;
+}
+.header{
+height:200px;
+margin-bottom:15px; 
+
+}
+.body{
+
+height:400px;
+
+}
+.footer{
+	height: 50px;
+
+}
+
